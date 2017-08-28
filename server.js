@@ -42,7 +42,7 @@ var htmlTemplate = `<html>
         <div>
             <h2>
             ${heading}
-            e</h2>
+            </h2>
         </div>
         <div>
             ${date}
