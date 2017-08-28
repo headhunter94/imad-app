@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Article two</title>
+        
+    </head>
+    <body>
+        <div>
+        <h1>
+            <a href="Home">Home</a>
+        </h1>
+        <hr/>
+        </div>
+        <div>
+            <h2>Aricle two</h2>
+        </div>
+        <div>
+            Aug 29, 2017
+        </div>
+        <div>
+            <h4>content</h4>
+            <p>
+                Article two is displayed here.
+                            </p>
+        </div>
+    </body>
+</html>
